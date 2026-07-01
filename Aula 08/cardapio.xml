@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cardapio>
+    <prato>
+        <codigo>001</codigo>
+        <nome>X-Burger</nome>
+        <descricao>Pão, hambúrguer, queijo, alface e tomate</descricao>
+        <valor>25.90</valor>
+    </prato>
+
+    <prato>
+        <codigo>002</codigo>
+        <nome>Pizza Calabresa</nome>
+        <descricao>Pizza com molho de tomate, queijo e calabresa</descricao>
+        <valor>49.90</valor>
+    </prato>
+
+    <prato>
+        <codigo>003</codigo>
+        <nome>Lasanha Bolonhesa</nome>
+        <descricao>Lasanha com molho bolonhesa e queijo gratinado</descricao>
+        <valor>38.50</valor>
+    </prato>
+</cardapio>
